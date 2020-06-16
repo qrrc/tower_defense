@@ -5,9 +5,17 @@ This is a student project for object oriented C++ programming course at Faculty 
 ## Dependencies:
 
 Allegro 5
-g++
+
+Installation of allegro on MAC OSX:
+
+```
+brew install allegro
+```
 
 ## Compilation:
+
 ```
+git clone 
+cd tower_defense
 g++ -o main.out -std=c++11 -lallegro -lallegro_main -lallegro_primitives -lallegro_font -lallegro_ttf _main.cpp cpu.cpp drawer.cpp effect.cpp enemy.cpp others.cpp turret.cpp
 ```
