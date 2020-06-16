@@ -6,7 +6,7 @@ This is a student project for object oriented C++ programming course at Faculty 
 
 Allegro 5
 
-Installation of allegro on MAC OSX:
+Installation of Allegro 5 on MAC OSX:
 
 ```
 brew install allegro
@@ -15,7 +15,7 @@ brew install allegro
 ## Compilation:
 
 ```
-git clone 
+git clone https://github.com/qrrc/tower_defense.git
 cd tower_defense
 g++ -o main.out -std=c++11 -lallegro -lallegro_main -lallegro_primitives -lallegro_font -lallegro_ttf _main.cpp cpu.cpp drawer.cpp effect.cpp enemy.cpp others.cpp turret.cpp
 ```
