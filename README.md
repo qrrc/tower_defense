@@ -27,4 +27,4 @@ g++ -o main.out -std=c++11 -lallegro -lallegro_main -lallegro_primitives -lalleg
 
 ## How to play:
 
-Press H for shortcuts. Place turrets when you can afford it.
+Press H for shortcuts. Place turrets when you can afford it. Launch enemy weaves and hold on as long as you can.
