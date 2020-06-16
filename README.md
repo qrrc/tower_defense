@@ -9,5 +9,5 @@ g++
 
 ## Compilation:
 ```
-g++ -o main.out -std=c++11 -lallegro -lallegro_main -lallegro_primitives -lallegro_font -lallegro_ttf _main.cpp cpu.cpp drawer.cpp effect.cpp enemy.cpp others.cpp turret.cpp
+g++ -o main.out -std=c++11 -lallegro -lallegro_main -lallegro_primitives -lallegro_font -lallegro_ttf main.cpp cpu.cpp drawer.cpp effect.cpp enemy.cpp others.cpp turret.cpp
 ```
