@@ -6,7 +6,7 @@ This is a student project for object oriented C++ programming course at Faculty 
 
 Allegro 5
 
-Installation of Allegro 5 on MAC OSX:
+Installation of Allegro 5 on macOS:
 
 ```
 brew install allegro
